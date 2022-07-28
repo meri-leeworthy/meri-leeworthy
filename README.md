@@ -2,7 +2,9 @@
 
 I'm currently looking for work as a frontend developer!
 
-For the last few years, I've been working on a project called [Radical Directory](https://github.com/radicaldirectory). 
+To see my work, you can check out:
+- https://meri.garden - my personal website
+- https://radical.directory - the site for the project I've been working on for the last few years
 
 <!--
 **meri-leeworthy/meri-leeworthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
