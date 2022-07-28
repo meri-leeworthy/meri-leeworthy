@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Meri
+
+I'm currently looking for work as a frontend developer!
+
+For the last few years, I've been working on a project called [Radical Directory](https://github.com/radicaldirectory). 
 
 <!--
 **meri-leeworthy/meri-leeworthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
