@@ -1,6 +1,6 @@
 ## Hi, I'm Meri ✨
 
-**Hire me? I'm currently looking for work as a frontend developer!**
+🙋🏻‍♀️ *I'm currently looking for work as a frontend developer!*
 
 I have been a self taught programmer and web developer since childhood, with many twists along the road. In high school I created websites for small businesses and Flash games using ActionScript. I graduated from the University of Melbourne in 2017 with a Bachelor of Arts, majoring in Screen and Cultural Studies. I went on to write, direct, and design lighting and sound for professional theatre productions, receiving a Green Room Award for Composition and Sound Design in 2018. Several design projects involved Arduinos and I began teaching myself embedded programming in C in 2016, later going on to work on embedded systems for a [biomedical technology startup](https://www.linkedin.com/company/antidote-biomedical/about/). In 2020 I became involved with an activist project called [Radical Directory](https://radical.directory) which brought me back into web development.
 
