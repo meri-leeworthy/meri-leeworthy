@@ -13,25 +13,10 @@ My work with the project as the sole technologist has been to research existing 
 ### Where can I see Meri's work? 🌸
 
 To see my work, you can check out:
-- https://meri.garden - my personal website, blog and portfolio. The source repo is [here](https://github.com/meri-leeworthy/meri-garden).
+- https://meri.garden - my personal website, blog and portfolio. The source repo is [here](https://github.com/meri-leeworthy/meri.garden).
 - https://radical.directory - landing page and blog for Radical Directory. Source repo [here](https://github.com/radicaldirectory/radical.directory). 
 
 You can also find me on:
 - 🏢 [LinkedIn](https://www.linkedin.com/in/meri-leeworthy-4a6b7a133/)
 - 🦜 [Twitter](https://twitter.com/meri_leeworthy)
 - 🎧 [Bandcamp](https://babymode.bandcamp.com) (I still make music sometimes.)
-
-<!--
-**meri-leeworthy/meri-leeworthy** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
