@@ -1,8 +1,7 @@
 ## Hi, I'm Meri ✨
 
-🙋🏻‍♀️ Currently looking for work as a software engineer
-
-📚 Studying a Graduate Certificate in Computer Science at Monash Uni
+- 🙋🏻‍♀️ Currently looking for work as a software engineer
+- 📚 Studying a Graduate Certificate in Computer Science at Monash Uni
 
 ### Bio
 
